@@ -1,0 +1,82 @@
+/* .App {
+  text-align: center;
+} */
+
+body, 
+html {
+  height: 100%;
+  margin: 0;
+}
+
+body {color: #394448;}
+
+h1 {font-size: 60px;}
+h2 {color: #394448; font-size: 30px;}
+p {color: #394448; font-size: 16px;}
+
+
+ul, li {padding: 0;}
+
+a {
+  text-decoration: none !important;
+  transition: all ease-in-out 0.5s; color: #ffffff;
+}
+
+a:hover {
+  text-decoration: underline  !important;
+}
+a:visited {color: #ffffff;}
+
+
+
+.home-intro ul li {list-style: none; margin-bottom: 14px; font-weight: 600;}
+.home-intro .svg-inline--fa {margin-right: 10px;}
+.home-intro .svg-inline--fa path {fill: #1db1b4;}
+.home-intro a {color: #394448;}
+
+
+.lftSidColumn {background-color: #006666; padding: 60px 40px; position: sticky;
+      top: 0;
+      height: 100vh;
+      overflow-y: auto;
+      border-right: 1px solid #ddd;
+}
+.profileImage {display: flex; justify-content: center; margin-bottom: 40px;}
+.profileImage img {border-radius: 100%; padding: 0; overflow: hidden; width: 270px; height: 270px;}
+
+.lftSidColumn .navbar-expand-lg .navbar-nav {flex-direction: column;}
+.lftSidColumn .navbar-expand-lg .navbar-nav a {font-size: 30px; color: #ffffff;}
+
+
+
+.rightSideColumn {padding: 60px 40px 0;
+height: 100vh;
+      overflow-y: auto;
+}
+
+.education-wrapper {margin-bottom: 40px;}
+.education-wrapper h5 {font-size: 20px; color: #1db1b4;}
+.education-wrapper h6 {font-size: 17px; color: #394448;}
+
+
+.skills-section ul {padding: 0 0 0 20px;}
+.skills-section ul li {color: #ffffff;}
+
+.exp-wrap {margin-bottom: 40px;}
+.exp-wrap h3 {font-size: 20px; color: #1db1b4;}
+.exp-wrap h4 {font-size: 15px; color: #1db1b4;}
+.exp-wrap h5 {font-size: 14px; color: #394448;}
+.exp-wrap ul li {list-style: inside;}
+
+
+.portfolio-wrap h3 {font-size: 20px; color: #394448;}
+.portfolio-wrap h4 {font-size: 14px; color: #1db1b4;}
+.portfolio-wrap a {color: #394448;}
+
+
+.contact-wrap ul li {list-style: none; margin-bottom: 40px;}
+.contact-wrap ul li, .contact-wrap ul li a {font-size: 26px; color: #394448;}
+.contact-wrap ul li .svg-inline--fa {margin-right: 10px;}
+.contact-wrap ul li .svg-inline--fa path {font-size: 26px; color: #1db1b4;}
+
+
