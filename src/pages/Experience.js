@@ -15,11 +15,11 @@ const Experience = () => {
           <div className='col-12 col-md-8'>
             <div className='rightSideColumn'>
               <div className='row mb-5 home-intro'>
-                <div className='col'>
-                  <h1>Experience</h1>
-                  {/* <h6>Sr. WordPress Developer / Frontend Developer</h6> */}
+                <div className='col col-sm-12 col-md-12'>
+                  <h1>Misbah Ul Haq</h1>
+                  <h6>Sr. WordPress Developer / Frontend Developer</h6>
                 </div>
-                <div className='col'>
+                <div className='col col-sm-12 col-md-12'>
                   <ul>
                     <li><FontAwesomeIcon icon={faLocationDot} /> <a href='https://www.google.com/maps/place/Model+Colony+Malir+Cantonment,+Karachi,+Pakistan/@24.9012372,67.1794362,15z/data=!3m1!4b1!4m6!3m5!1s0x3eb337623ec7436f:0x48231685184fd3f2!8m2!3d24.9023473!4d67.1892!16zL20vMDlwMWts?entry=ttu&g_ep=EgoyMDI1MDUyNy4wIKXMDSoASAFQAw%3D%3D' target='_blank' rel='noopener noreferrer'>Model Colony, Karachi, Pakistan</a></li>
                     <li><FontAwesomeIcon icon={faPhone} /> +92 334 345 9950</li>

@@ -79,4 +79,22 @@ height: 100vh;
 .contact-wrap ul li .svg-inline--fa {margin-right: 10px;}
 .contact-wrap ul li .svg-inline--fa path {font-size: 26px; color: #1db1b4;}
 
+@media (max-width: 1440px) {
+  h1 {font-size: 44px;}
+  .lftSidColumn .navbar-expand-lg .navbar-nav a {font-size: 28px;}
+}
 
+@media (max-width: 1280px) {
+  .profileImage img {width: 200px; height: 200px;}
+}
+
+@media (max-width: 991px) {
+  .navbar.navbar-expand-lg {background-color: #ffffff;}
+  .navbar-toggler {border: 1px solid #ffffff;}
+  button:focus:not(:focus-visible) {outline: none; box-shadow:none}
+  .lftSidColumn .navbar-expand-lg .navbar-nav a {color: #1db1b4;}
+}
+
+@media (max-width: 767px) {
+  .lftSidColumn {height: auto;}
+}
