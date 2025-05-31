@@ -15,10 +15,10 @@ const Experience = () => {
           <div className='col-12 col-md-8'>
             <div className='rightSideColumn'>
               <div className='row mb-5 home-intro'>
-                <div className='col col-sm-12 col-md-12 col-lg-6'>
+                <div className='col-12 col-sm-12 col-md-6 col-lg-6 main-heading'>
                   <h1>Experience</h1>
                 </div>
-                <div className='col col-sm-12 col-md-12 col-lg-6'>
+                <div className='col-12 col-sm-12 col-md-6 col-lg-6'>
                   <ul>
                     <li><FontAwesomeIcon icon={faLocationDot} /> <a href='https://www.google.com/maps/place/Model+Colony+Malir+Cantonment,+Karachi,+Pakistan/@24.9012372,67.1794362,15z/data=!3m1!4b1!4m6!3m5!1s0x3eb337623ec7436f:0x48231685184fd3f2!8m2!3d24.9023473!4d67.1892!16zL20vMDlwMWts?entry=ttu&g_ep=EgoyMDI1MDUyNy4wIKXMDSoASAFQAw%3D%3D' target='_blank' rel='noopener noreferrer'>Model Colony, Karachi, Pakistan</a></li>
                     <li><FontAwesomeIcon icon={faPhone} /> +92 334 345 9950</li>
@@ -37,11 +37,11 @@ const Experience = () => {
                   
                   <div className='exp-wrap'>
                     <div className='row mb-3'>
-                      <div className='col'>
+                      <div className='col-12 col-sm-12 col-md-6'>
                         <h3>Team Lead WordPress / Frontend Developer</h3>
                         <h5>Digital Gravity</h5>
                       </div>
-                      <div className='col'>
+                      <div className='col-12 col-sm-12 col-md-6'>
                         <h4 className='text-end'>October 2023</h4>
                       </div>
                     </div>
@@ -59,11 +59,11 @@ const Experience = () => {
 
                   <div className='exp-wrap'>
                     <div className='row mb-3'>
-                      <div className='col'>
+                      <div className='col-12 col-sm-12 col-md-6'>
                         <h3>Team Lead WordPress / Frontend Developer</h3>
                         <h5>Tree House Consultancy</h5>
                       </div>
-                      <div className='col'>
+                      <div className='col-12 col-sm-12 col-md-6'>
                         <h4 className='text-end'>September 2021</h4>
                       </div>
                     </div>
@@ -81,11 +81,11 @@ const Experience = () => {
 
                   <div className='exp-wrap'>
                     <div className='row mb-3'>
-                      <div className='col'>
+                      <div className='col-12 col-sm-12 col-md-6'>
                         <h3>Sr. WordPress Developer/ Frontend Developer</h3>
                         <h5>Olive Digital</h5>
                       </div>
-                      <div className='col'>
+                      <div className='col-12 col-sm-12 col-md-6'>
                         <h4 className='text-end'>September 2021</h4>
                       </div>
                     </div>
@@ -102,11 +102,11 @@ const Experience = () => {
 
                   <div className='exp-wrap'>
                     <div className='row mb-3'>
-                      <div className='col'>
+                      <div className='col-12 col-sm-12 col-md-6'>
                         <h3>Sr. WordPress Developer/ Frontend Developer</h3>
                         <h5>Symmetry Group</h5>
                       </div>
-                      <div className='col'>
+                      <div className='col-12 col-sm-12 col-md-6'>
                         <h4 className='text-end'>September 2018</h4>
                       </div>
                     </div>
@@ -124,11 +124,11 @@ const Experience = () => {
 
                   <div className='exp-wrap'>
                     <div className='row mb-3'>
-                      <div className='col'>
+                      <div className='col-12 col-sm-12 col-md-6'>
                         <h3>Sr. WordPress Developer/ Frontend Developer</h3>
                         <h5>Enet Technologies.Inc.</h5>
                       </div>
-                      <div className='col'>
+                      <div className='col-12 col-sm-12 col-md-6'>
                         <h4 className='text-end'>March 2014</h4>
                       </div>
                     </div>
@@ -145,11 +145,11 @@ const Experience = () => {
 
                   <div className='exp-wrap'>
                     <div className='row mb-3'>
-                      <div className='col'>
+                      <div className='col-12 col-sm-12 col-md-6'>
                         <h3>Sr. WordPress Developer/ Frontend Developer</h3>
                         <h5>Server4Sale.Inc.</h5>
                       </div>
-                      <div className='col'>
+                      <div className='col-12 col-sm-12 col-md-6'>
                         <h4 className='text-end'>April 2013</h4>
                       </div>
                     </div>
@@ -166,11 +166,11 @@ const Experience = () => {
 
                   <div className='exp-wrap'>
                     <div className='row mb-3'>
-                      <div className='col'>
+                      <div className='col-12 col-sm-12 col-md-6'>
                         <h3>WordPress Developer/ Frontend Developer</h3>
                         <h5>Jeem Solutions</h5>
                       </div>
-                      <div className='col'>
+                      <div className='col-12 col-sm-12 col-md-6'>
                         <h4 className='text-end'>November 2011</h4>
                       </div>
                     </div>
@@ -186,11 +186,11 @@ const Experience = () => {
 
                   <div className='exp-wrap'>
                     <div className='row mb-3'>
-                      <div className='col'>
+                      <div className='col-12 col-sm-12 col-md-6'>
                         <h3>WordPress Developer/ Frontend Developer</h3>
                         <h5>Enet Technologies.Inc.</h5>
                       </div>
-                      <div className='col'>
+                      <div className='col-12 col-sm-12 col-md-6'>
                         <h4 className='text-end'>April 2009</h4>
                       </div>
                     </div>
@@ -206,10 +206,6 @@ const Experience = () => {
             </div>
           </div>
         </div>
-      </div>
-
-      <div className='container'>
-        
       </div>
     </>
   )

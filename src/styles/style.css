@@ -97,4 +97,7 @@ height: 100vh;
 
 @media (max-width: 767px) {
   .lftSidColumn {height: auto;}
+  .main-heading {margin-bottom: 30px;}
+  h1 {font-size: 38px;}
+  .contact-wrap ul li, .contact-wrap ul li a {font-size: 18px;}
 }
