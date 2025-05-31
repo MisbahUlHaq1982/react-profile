@@ -16,8 +16,7 @@ const portfolio = () => {
             <div className='rightSideColumn'>
               <div className='row mb-5 home-intro'>
                 <div className='col col-sm-12 col-md-12 col-lg-6'>
-                  <h1>Misbah Ul Haq</h1>
-                  <h6>Sr. WordPress Developer / Frontend Developer</h6>
+                  <h1>Portfolio</h1>
                 </div>
                 <div className='col col-sm-12 col-md-12 col-lg-6'>
                   <ul>
