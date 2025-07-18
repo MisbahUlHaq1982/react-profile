@@ -37,6 +37,14 @@ const portfolio = () => {
               <div className='portfolio-wrap'>
                 <div className='row mb-3'>
                   <div className='col'>
+                    <h3>Makeup Hub</h3>
+                    <h4>React.JS with Products API</h4>
+                    <p><a href='https://makeuphub.vercel.app/' target='_blank' rel='noopener noreferrer'>Makeup Hub</a></p>
+                  </div>
+                </div>
+
+                <div className='row mb-3'>
+                  <div className='col'>
                     <h3>Canadian Medical Center </h3>
                     <h4>WordPress</h4>
                     <p><a href='https://www.canadiancmc.com/' target='_blank' rel='noopener noreferrer'>Canadian Medical Center</a></p>
