@@ -37,9 +37,33 @@ const portfolio = () => {
               <div className='portfolio-wrap'>
                 <div className='row mb-3'>
                   <div className='col'>
-                    <h3>Makeup Hub</h3>
-                    <h4>React.JS with Products API</h4>
-                    <p><a href='https://makeuphub.vercel.app/' target='_blank' rel='noopener noreferrer'>Makeup Hub</a></p>
+                    <h3>Road To Qatar</h3>
+                    <h4>Wordpress Headless + Next.Js</h4>
+                    <p><a href='https://roadtoqatar.qa/en' target='_blank' rel='noopener noreferrer'>Road To Qatar</a></p>
+                  </div>
+                </div>
+
+                <div className='row mb-3'>
+                  <div className='col'>
+                    <h3>Fifa Arab Cup 2025</h3>
+                    <h4>Wordpress Headless + Next.Js</h4>
+                    <p><a href='https://roadtoqatar.qa/en/fifarabcup' target='_blank' rel='noopener noreferrer'>Fifa Arab Cup 2025</a></p>
+                  </div>
+                </div>
+
+                <div className='row mb-3'>
+                  <div className='col'>
+                    <h3>Fifa U17 World Cup Qatar 2025</h3>
+                    <h4>Wordpress Headless + Next.Js</h4>
+                    <p><a href='https://roadtoqatar.qa/en/u17' target='_blank' rel='noopener noreferrer'>Fifa U17 World Cup Qatar 2025</a></p>
+                  </div>
+                </div>
+
+                <div className='row mb-3'>
+                  <div className='col'>
+                    <h3>Supreme Committee For Delivery And Legacy</h3>
+                    <h4>Wordpress Headless + Next.Js</h4>
+                    <p><a href='https://www.sc.qa/en' target='_blank' rel='noopener noreferrer'>Supreme Committee For Delivery And Legacy</a></p>
                   </div>
                 </div>
 
