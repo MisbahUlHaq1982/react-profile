@@ -36,7 +36,10 @@ const Home = () => {
               <div className='row mb-5'>
                 <div className='col'>
                   <h2>About Me</h2>
-                  <p>Seasoned Senior WordPress Developer and Frontend Engineer with 15+ years of experience building high-performance, scalable websites and custom digital solutions. Specialized in custom WordPress themes, plugins, and dynamic Elementor widgets, with deep expertise in PHP, MySQL, JavaScript, HTML5, and CSS3. Strong background in WooCommerce, ACF Pro, and third-party API integration. Currently exploring headless WordPress development, with growing experience in integrating decoupled setups using modern frontend frameworks like React.js and Vue.js. Known for writing clean, maintainable code and delivering pixel-perfect, fully dynamic solutions that align with business goals.</p>
+                  <p>Seasoned Senior WordPress Developer and Frontend Engineer with 15+ years of experience building high-performance, scalable websites and custom digital solutions.</p>
+<p>Specialized in custom WordPress themes, plugins, dynamic Elementor widgets, and headless WordPress architectures. Deep expertise in PHP, MySQL, JavaScript, HTML5, and CSS3, with strong command over WooCommerce, ACF Pro, and third-party API integrations.</p>
+<p>Currently focused on modern headless WordPress development, with solid hands-on experience in building decoupled applications using Next.js (App Router, Server Components, SSR/SSG) alongside WordPress as a headless CMS via WPGraphQL and custom REST endpoints.</p>
+<p>Known for writing clean, maintainable code and delivering fast, pixel-perfect, fully dynamic solutions that drive business results.</p>
                 </div>
               </div>
 
@@ -64,10 +67,13 @@ const Home = () => {
                     <ul>
                       <li>WordPress Customization</li>
                       <li>Headless Wordpress</li>
+                      <li>PHP</li>
+                      <li>Magento 2.0</li>
                       <li>React JS</li>
                       <li>Vue JS</li>
+                      <li>next.js</li>
                       <li>JavaScript</li>
-                      <li>Magento 2.0</li>
+                      <li>jQuery</li>
                       <li>Bootstrap / Custom Responsive</li>
                     </ul>
                   </div>
