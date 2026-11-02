@@ -35,6 +35,15 @@ const portfolio = () => {
               
 
               <div className='portfolio-wrap'>
+                
+                <div className='row mb-3'>
+                  <div className='col'>
+                    <h3>Digitale Craft</h3>
+                    <h4>Core PHP, Gsap Animation</h4>
+                    <p><a href='https://www.digitalecraft.com/' target='_blank' rel='noopener noreferrer'>Digitale Craft</a></p>
+                  </div>
+                </div>
+                
                 <div className='row mb-3'>
                   <div className='col'>
                     <h3>Road To Qatar</h3>
@@ -77,6 +86,14 @@ const portfolio = () => {
 
                 <div className='row mb-3'>
                   <div className='col'>
+                    <h3>Square Code Digital</h3>
+                    <h4>Core PHP, Gsap Animation</h4>
+                    <p><a href='https://squarecodedigital.com/' target='_blank' rel='noopener noreferrer'>Square Code Digital</a></p>
+                  </div>
+                </div>
+
+                <div className='row mb-3'>
+                  <div className='col'>
                     <h3>Canadian Medical Center </h3>
                     <h4>WordPress</h4>
                     <p><a href='https://www.canadiancmc.com/' target='_blank' rel='noopener noreferrer'>Canadian Medical Center</a></p>
@@ -96,14 +113,6 @@ const portfolio = () => {
                     <h3>First Growth</h3>
                     <h4>WordPress</h4>
                     <p><a href='https://firstgrowthagency.com/' target='_blank' rel='noopener noreferrer'>First Growth</a></p>
-                  </div>
-                </div>
-
-                <div className='row mb-3'>
-                  <div className='col'>
-                    <h3>Bodyshop Oman</h3>
-                    <h4>Magento2 Integration</h4>
-                    <p><a href='https://thebodyshop.om/' target='_blank' rel='noopener noreferrer'>BodyShop Oman</a></p>
                   </div>
                 </div>
 
@@ -144,14 +153,6 @@ const portfolio = () => {
                     <h3>Savasto</h3>
                     <h4>WordPress</h4>
                     <p><a href='https://savasto.com/' target='_blank' rel='noopener noreferrer'>Savasto</a></p>
-                  </div>
-                </div>
-
-                <div className='row mb-3'>
-                  <div className='col'>
-                    <h3>Resolve Roofing</h3>
-                    <h4>WordPress</h4>
-                    <p><a href='https://resolveroofing.com/' target='_blank' rel='noopener noreferrer'>Resolve Roofing</a></p>
                   </div>
                 </div>
 
